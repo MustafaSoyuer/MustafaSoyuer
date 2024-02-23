@@ -1,10 +1,7 @@
 
-
-
-
 <p align="center">
   <a href="https://github.com/MustafaSoyuer/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi There 👋%20;I am%20Mustafa%20Soyuer;Full-Stack%20Java%20Developer;Always%20Learning%20&font=Fira%20Code&center=true&width=440&height=45&color=0011a7&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi There 👋%20;I am%20Mustafa%20;Full-Stack%20Java%20Developer;Always%20Learning%20&font=Fira%20Code&center=true&width=440&height=45&color=fff714&vCenter=true&pause=500&size=25" /></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MustafaSoyuer&label=Profile%20views&color=0e75b6&style=flat" alt="MustafaSoyuer" /> </p>
